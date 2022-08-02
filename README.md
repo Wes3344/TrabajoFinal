@@ -1,4 +1,4 @@
 # TrabajoFinal
 Integrantes:
-Kawano Villavicencio, Wesley Kazuki
+Kawano Villavicencio, Wesley Kazuki //
 Ruiz Espinoza, Arianne
