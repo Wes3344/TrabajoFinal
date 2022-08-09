@@ -9,4 +9,4 @@ Agregando el trabajo de Arianne con Selenium.
 
 Modificando codigos markdown del archivo ipynb
 
-Agregando códigos para enviar al correo del solicitante
+Agregando códigos smtplib para enviar al correo del solicitante
