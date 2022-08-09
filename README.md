@@ -5,3 +5,6 @@ Ruiz Espinoza, Arianne
 
 Eliminando los códigos con beautifulsoup (archivo ipynb).
 Agregando el trabajo de Arianne con Selenium.
+
+
+Modificando codigos markdown del archivo ipynb
