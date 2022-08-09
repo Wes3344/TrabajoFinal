@@ -12,3 +12,4 @@ Modificando codigos markdown del archivo ipynb
 Agregando códigos smtplib para enviar al correo del solicitante
 
 Insertando códigos en la comparación de los precios entre los 3 supermercados
+Insertando más comparaciones (máximos y mínimos)
